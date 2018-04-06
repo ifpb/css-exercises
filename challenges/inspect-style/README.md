@@ -1,6 +1,15 @@
 # Analisando Estilo de uma Página da Web
 
-A Ferramenta de Desenvolvedor, abordado no exercício sobre [Analisando uma página Web](../inspect-page/README.md), pode permitir a edição da estrutura da página carregada.
+## Objetivo
+
+O objetivo desta atividade consiste em abordar os seguintes temas:
+
+- Edição da cópia de uma página usando a Ferramenta de Desenvolvedor do Browser
+- Analisar e editar estilos de um elemento HTML
+
+## Descrição
+
+A Ferramenta de Desenvolvedor, abordado no exercício sobre [Analisando uma página Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/), pode permitir a edição da estrutura da página carregada.
 
 Para experimentar este recurso acesse o horário de algum laboratório do IFPB, nessa [página](http://joaopessoa.ifpb.edu.br/horario/), e através da Ferramenta de Desenvolvedor remova da página em memória, apresentado na *Figura 1*, alguns elementos de cabeçalho da página para que assim reste apenas o título do laboratório e sua tabela dos horários, conforme a *Figura 2*.
 

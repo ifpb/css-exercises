@@ -29,7 +29,7 @@ Então, tente definir o estilo de modo inline (local na tag) para mudar a cor e 
 * h1 - color (blue) / font-size (16px)
 * p - color (red) / font-size (12px)
 
-Agora usando o arquivo [exe1.html](site/exe1.html), que possui conteúdo semelhante ao exe0.html, tente fazer a mesma estilização só que de modo interno.
+Agora usando o arquivo [exe1.html](site/exe1.html), que possui conteúdo semelhante ao [exe0.html](site/exe0.html), tente fazer a mesma estilização só que de modo interno.
 
 ## Seletor de Id
 
