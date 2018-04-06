@@ -21,7 +21,9 @@ No intuito de testar os vários seletores, acesse a [página do CSS](https://en.
 * Selecione as anotações (`<div role="note">`)
 * Selecione o primeiro hyperlink do menu, o de texto "Main page"
 * O primeiro parágrafo do artigo principal
+* A table "CSS priority scheme (highest to lowest)"
+* As linhas pares do corpo da table "CSS priority scheme (highest to lowest)"
 
-> **Dica:** a Ferramenta de Desenvolvedor consegue traçar uma selector para as tags selecionadas.
+Uma dica legal é que as Ferramentas de Desenvolvedor geralmente conseguem traçar uma selector para as tags selecionadas, no chrome, na aba `Elements` você pode acessar o seletor de uma tag via seu menu suspensdo, na opção `Copy > Copy selector`. Outro recurso legal é que vc pode ter a aplicação de novos *Rulesets* em `Elements`, então, tente aplicar a cor de plano de fundo `#ccc` nas linhas pares do corpo da table "CSS priority scheme (highest to lowest)".
 
 > [Alternativa de resposta](selectors.md)
