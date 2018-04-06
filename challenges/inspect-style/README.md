@@ -23,7 +23,7 @@ Mas, essa ferramenta também pode ser usada para analisar e editar os estilos ap
 
 Portanto, tente analisar o estilo das tags seleciondas, inclusive, veja que é possível alterar o estilo em memório, por exemplo, tente alterar apenas o tamanho do nome do laboratório na própria ferramenta.
 
-Detalhe, também é possível verificar se foi editado ou carregado uma propriedade ou valor com valor inválido. Na aba `Elements` a seção `Styles` a declaração inválida geralmente fica com algum ícone de alerta.
+Detalhe, também é possível verificar se foi editado ou carregado uma propriedade ou valor com valor inválido. Na seção `Styles`, da aba `Elements`, a declaração inválida geralmente fica com algum ícone de alerta.
 
 Contudo, veja que ao fazer o recarregamento da página as configurações editadas são perdidas, pois a edição é feita apenas na cópia corrente.
 
