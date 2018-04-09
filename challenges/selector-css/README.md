@@ -23,6 +23,7 @@ No intuito de testar os vários seletores, acesse a [página do CSS](https://en.
 * O primeiro parágrafo do artigo principal
 * A table "CSS priority scheme (highest to lowest)"
 * As linhas pares do corpo da table "CSS priority scheme (highest to lowest)"
+* Algum link quando o curso está em cima dele.
 
 Uma dica legal é que as Ferramentas de Desenvolvedor geralmente conseguem traçar uma selector para as tags selecionadas, no chrome, na aba `Elements` você pode acessar o seletor de uma tag via seu menu suspensdo, na opção `Copy > Copy selector`. Outro recurso legal é que vc pode ter a aplicação de novos *Rulesets* em `Elements`, então, tente aplicar a cor de plano de fundo `#ccc` nas linhas pares do corpo da table "CSS priority scheme (highest to lowest)".
 
