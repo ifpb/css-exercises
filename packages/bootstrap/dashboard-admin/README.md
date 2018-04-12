@@ -46,12 +46,12 @@ O template Ample Admin é um template disponível no [WrapPixel](https://wrappix
 
 **INSTRUÇÃO 5 -** Então baseado na versão do Ample Admin [Lite](https://wrappixel.com/templates/ample-admin-lite/) tente reproduzir o painel da *Figura 5*.
 
-*Figura 5 - Paineis do Gentelella*<br>
+*Figura 5 - Painel Estatístico do Ample Admin*<br>
 ![Painel Ample Admin](assets/ample-admin-stats.png)
 
 **INSTRUÇÃO 6 -** Por fim, tente gerar os paineis da *Figura 6*.
 
-*Figura 6 - Paineis do Gentelella*<br>
+*Figura 6 - Paineis do Ample Admin*<br>
 ![Painel Ample Admin](assets/ample-admin-panels.png)
 
 <!-- > Alternativa de resposta:  -->
