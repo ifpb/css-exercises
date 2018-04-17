@@ -4,7 +4,8 @@
   * [Profile](css/profile/)
   * [Profile Responsivo](css/profile-responsive/)
   * [Curriculum vitae](css/curriculum-vitae/)
-  * [Weather Responsivo](css/weather-responsive/)
+  * [Weather App](css/weather-responsive/)
+  * [Cinebangue](css/cinebangue-responsive/)
   * [Mirror fashion](css/mirrorfashion/)
 * Packages
   * [Host Monitor](packages/host-monitor/)
