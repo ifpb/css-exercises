@@ -16,7 +16,7 @@ Para acelerar o desenvolvimento o Headhunter já disponibilizou boa parte do HTM
 ## QUESTÕES (COMPONENTES)
 ---
 
-**COMPONENTE 1 - (3,3)** Crie o componente ilustrado na *Figura 2* que possua:
+**COMPONENTE 1 -** Crie o componente ilustrado na *Figura 2* que possua:
 
 * A &lt;div> de class `cover` com largura de `278px`, margem superior e inferior de 40px, margens laterais distribuídas de forma automática, e texto centralizado;
 * A imagem `person.png` dentro da região de class `cover`;
@@ -26,18 +26,18 @@ Para acelerar o desenvolvimento o Headhunter já disponibilizou boa parte do HTM
 
 ![Layout da página](assets/component1.png)
 
-**COMPONENTE 2 - (3,3)** Crie o componente ilustrado na *Figura 3* que possua:
+**COMPONENTE 2 -** Crie o componente ilustrado na *Figura 3* que possua:
 
-* Uma tabela cuja a primeira coluna contém os ícones do material icons (https://material.io/icons/). Os nomes dos ícones se encontram no HTML;
-* O Hyperlink `www.ifpb.edu.br` presente na tabela deve possuir a cor de texto de `#f7f7f7` e não estar sublinhado exceto sob o curso do mouse;
+* Uma tabela cuja a primeira coluna contém alguns [material icons](https://material.io/icons/). Detalhe, os nomes dos ícones se encontram no HTML;
+* O Hyperlink `www.ifpb.edu.br` presente na tabela deve possuir a cor de texto de `#f7f7f7` e não estar sublinhado, exceto sob o curso do mouse;
 
 *Figura 3 - Layout do componente 2* <br>
 
 ![Layout da página](assets/component2.png)
 
-**COMPONENTE 3 - (3,3)** Crie o componente ilustrado na *Figura 4* que possua:
+**COMPONENTE 3 -** Crie o componente ilustrado na *Figura 4* que possua:
 
-* As células da tabela na &lt;div> de classe `education` devem possuir alinhamento vertical ao topo e recúo interno inferior de `20px`;
+* As células da tabela na &lt;div> de classe `education` devem possuir alinhamento vertical ao topo (`vertical-align: top;`) e recúo interno inferior de `20px`;
 
 * A classe `date` dentro da tabela na &lt;div> de classe `education` deve possuir a cor de texto de `#636363` e alinhamento centralizado;
 
@@ -51,7 +51,7 @@ Para acelerar o desenvolvimento o Headhunter já disponibilizou boa parte do HTM
 
 ![Layout da página](assets/component3.png)
 
-**COMPONENTE 4 - (3,3)** Crie o componente ilustrado na *Figura 5* que possua:
+**COMPONENTE 4 -** Crie o componente ilustrado na *Figura 5* que possua:
 
 * A tabela dentro da &lt;div> que contém a `skill`, deve possuir a largura de `100%`, entretanto a primeira coluna com largura de 25% e texto maiúsculo;
 
