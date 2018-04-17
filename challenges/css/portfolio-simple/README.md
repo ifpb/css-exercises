@@ -20,7 +20,7 @@ Com isso, o Design projetou uma proposta de interface para desktop cujo o result
 *Figura 3* - Interface do Portfólio<br>
 ![Layout Curriculum](assets/layout.png)
 
-Então a empresa espera que você crie este portifólio, contudo, para facilitar o processo de seleção já foi fornecido textualmente algumas informações que estão disponíveis no arquivo [site](site.zip).
+Então a empresa espera que você crie este portifólio, contudo, para facilitar o processo de seleção já foi fornecido textualmente algumas informações que estão disponíveis no arquivo [code.zip](code.zip).
 
 **Obs.:** Os arquivos e diretórios do site apresentam a estrutura a seguir:
 

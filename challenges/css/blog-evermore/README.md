@@ -2,25 +2,21 @@
 
 ### DESCRIÇÃO
 
-As questões de avaliação serão relacionadas ao layout da página Web referente à Figura 1, no qual os recursos necessários para a página (imagens, fonte e estrutura básica do index-layout.html) serão disponibilizados através deste arquivo [code.zip](code.zip).
+As questões de avaliação serão relacionadas ao layout da página Web referente à Figura 1, no qual os recursos necessários para a página (imagens, fonte e estrutura básica do index-layout.html) serão disponibilizados através do arquivo [code.zip](code.zip).
 
 *Figura 1 - Layout da página*
 
-![Layout da página](assets/blog.png)
+![Layout da página](assets/layout.png)
 
 Resumidamente o layout é dividido em três áreas principais, começando com o cabeçalho, listando os arquivos no corpo principal da página, e finalizando com o rodapé. Cada uma dessas áreas apresentam itens com aparências específicas, que devem preservar o mais próximo possível, o comportamento  estrutural e o estilo, da realidade apresentada na Figura 1.
 
 Para facilitar nesse processo, cada questão abordará um item específico, no qual seu conteúdo será previamente disponibilizado por meio do arquivos baixados. Por exemplo, uma das questões solicitará a criação e estilização dos artigos, e como ponto de partida, os arquivos baixados já oferecem o conteúdo de cada artigo, como exibido a seguir:
 
-> Wherever far wow thus a squirrel
-
-> Februery 29, 2016
-
-> Travel
-
-> Cup, caramelization viennese, cultivar macchiato flavour percolator ristretto frappuccino. Lungo extra macchiato cream chicory turkish caramelization.
-
-> Continue reading →
+> Wherever far wow thus a squirrel<br>
+> Februery 29, 2016<br>
+> Travel<br>
+> Cup, caramelization viennese, cultivar macchiato flavour percolator ristretto frappuccino. Lungo extra macchiato cream chicory turkish caramelization.<br>
+> Continue reading →<br>
 
 para que seja utilizado pelo aluno na criação da estrutura do HTML e estilização do CSS do artigo.
 

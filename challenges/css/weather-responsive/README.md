@@ -21,7 +21,7 @@ A responsividade deve prever mais duas visualizações, uma entre `500px` e `999
 <!-- ![layout-mobile](assets/layout-desktop.png) -->
 <img src="assets/layout-desktop.png" alt="layout-desktop" width="800px" style="border: 1px solid #7f7f7f">
 
-Pensando em facilitar a programação da resposividade o *designer* planejou as seguintes questões.
+Pensando em facilitar a programação da responsividade o *designer* planejou as seguintes questões.
 
 ## QUESTÕES
 ---

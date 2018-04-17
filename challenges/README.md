@@ -1,7 +1,7 @@
 # Challenges
 
 * CSS
-  * Profile: [Simples](css/profile/), [Responsivo](css/profile-responsive/)
+  * Profile: [Simples](css/profile-simple/), [Responsivo](css/profile-responsive/)
   * [Curriculum vitae](css/curriculum-vitae/)
   * Portfólio: [Simples](css/portfolio-simple/), [Galeria](css/portfolio-gallery/)
   * [Weather App](css/weather-responsive/)

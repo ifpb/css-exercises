@@ -15,9 +15,9 @@ Contudo, dado o destaque e quantidade de acesso por meio de dispositivos móveis
 
 Então baseado nessa necessidade, um desenvolvedor chegou a codificar alguns recursos necessários no layout da página Web inspirados na *Figura 1* e *Figura 2*, e que seu resultado está disponível no arquivo [code.zip](code.zip). Portanto, cabe a você para continuar o desenvolvimento através das questões que serão levantadas a seguir, e cada questão tem explicito sua forma de pagamento.
 
-Resumidamente o layout é dividido em algumas áreas: a barra de navegação, o cabeçalho da página, a área principal de conteúdo e o rodapé da página. Cada uma dessas áreas apresentam itens com aparências específicas, que devem ser preservados o mais próximo possível do comportamento  estrutural e do estilo apresentado.
+Resumidamente o layout é dividido em algumas áreas: a barra de navegação, o cabeçalho da página, a área principal de conteúdo e o rodapé da página. Cada uma dessas áreas apresenta itens com aparências específicas, que devem ser preservados o mais próximo possível do comportamento  estrutural e do estilo apresentado.
 
-Para facilitar esse processo de desenvolvimento, cada questão abordará um item específico, no qual seu conteúdo será previamente disponibilizado por meio dos arquivos obtidos com o desenvolder. Por exemplo, uma das questões solicitará a criação e estilização da barra de menu, e como ponto de partida, os arquivos baixados já oferecem algum conteúdo, para que assim seja utilizado por você na criação da barra.
+Para facilitar esse processo de desenvolvimento, cada questão abordará um item específico, no qual seu conteúdo será previamente disponibilizado por meio dos arquivos obtidos com o desenvolvedor. Por exemplo, uma das questões solicitará a criação e estilização da barra de menu, e como ponto de partida, os arquivos baixados já oferecem algum conteúdo, para que assim seja utilizado por você na criação da barra.
 
 ## QUESTÕES
 ---
@@ -39,11 +39,11 @@ Para facilitar esse processo de desenvolvimento, cada questão abordará um item
 
 **b.** Oculte o cabeçalho quando a página possuir resolução menor que 899px em  `/* TODO header hidden viewport < 899px */`;
 
-**c.** Crie uma responsividade na exibição dos filmes de modo que em resoluções inferioes à 500px a imagem do filme seja ocultado em `\* TODO movie responsive viewport < 500px */`, e em `/* TODO movie responsive */` faça que os filmes sejam exibidos dois a dois em resoluções acima de 1200px;
+**c.** Crie uma responsividade na exibição dos filmes de modo que em resoluções inferiores à 500px a imagem do filme seja ocultado em `\* TODO movie responsive viewport < 500px */`, e em `/* TODO movie responsive */` faça que os filmes sejam exibidos dois a dois em resoluções acima de 1200px;
 
-**d.** Crie em `/* TODO info responsivo */` uma visualização dos dados de `#info` em linha para resoluções superiores à 900px, e para resoluções infereiores exiba-os em bloco;
+**d.** Crie em `/* TODO info responsivo */` uma visualização dos dados de `#info` em linha para resoluções superiores à 900px, e para resoluções inferiores exiba-os em bloco;
 
-**e.** Em `/* TODO footer responsivo */` faça que o rodapé exiba as informação conforme a *Figura 1* nas resoluções superioes à 900px.
+**e.** Em `/* TODO footer responsivo */` faça que o rodapé exiba as informações conforme a *Figura 1* nas resoluções superiores à 900px.
 
 **QUESTÃO 3 -** Veja a *Figura 1* e coloque a localização do cinema através do mapa do Google Maps, para isso adicione o HTML necessário em `<!-- TODO location -->` e o CSS necessário em `/* TODO location */`.
 
