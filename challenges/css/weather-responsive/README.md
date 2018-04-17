@@ -15,10 +15,11 @@ A responsividade deve prever mais duas visualizações, uma entre `500px` e `999
 
 *Figura 2 - Site da previsão do tempo (Versão Tablet)*<br>
 <!-- ![layout-mobile](assets/layout-tablet.png) -->
-<img src="assets/layout-tablet.png" alt="layout-mobile" width="700px" style="border: 1px solid #7f7f7f">
+<img src="assets/layout-tablet.png" alt="layout-tablet" width="700px" style="border: 1px solid #7f7f7f">
 
 *Figura 3 - Site da previsão do tempo (Versão Desktop)*<br>
-![layout-mobile](assets/layout-desktop.png)
+<!-- ![layout-mobile](assets/layout-desktop.png) -->
+<img src="assets/layout-desktop.png" alt="layout-desktop" width="700px" style="border: 1px solid #7f7f7f">
 
 Pensando em facilitar a programação da resposividade o *designer* planejou as seguintes questões.
 
@@ -27,6 +28,6 @@ Pensando em facilitar a programação da resposividade o *designer* planejou as 
 
 **QUESTÃO 1 (50%)** - Crição da responsividade da versão Tablet, conforme a *Figura 2*
 
-**QUESTÃO 2 (50%)** - Crição da responsividade da versão Tablet, conforme a *Figura 3*
+**QUESTÃO 2 (50%)** - Crição da responsividade da versão Desktop, conforme a *Figura 3*
 
 > [Alternativa de resposta](code-response/).
