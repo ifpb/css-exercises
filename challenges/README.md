@@ -1,15 +1,15 @@
 # Challenges
 
 * CSS
-  * [Profile](css/profile/)
-  * [Profile Responsivo](css/profile-responsive/)
+  * Profile ([Simples](css/profile/), [Responsivo](css/profile-responsive/))
   * [Curriculum vitae](css/curriculum-vitae/)
-  * [Portfólio (Simples)](css/portfolio-simple/)
-  * [Portfólio (Galeria)](css/portfolio-gallery/)
+  * Portfólio ([Simples](css/portfolio-simple/), [Galeria)](css/portfolio-gallery/))
   * [Weather App](css/weather-responsive/)
   * [Cinebangue](css/cinebangue-responsive/)
   * [Mirror fashion](css/mirrorfashion/)
+  * Template de Blog: [Denalli](css/blog-denalli/), [Escape](css/blog-escape/), [Evermore](css/blog-evermore/), [Lamar](css/blog-lamar/), [Moon](css/blog-moon/)
 * Packages
-  * [Host Monitor](packages/host-monitor/)
-  * [eZ Server Monitor](packages/ez-server-monitor/)
-  * [Pingdom Monitor](packages/pingdom-monitor/)
+  * Boostrap
+    * [Host Monitor](packages/host-monitor/)
+    * [eZ Server Monitor](packages/ez-server-monitor/)
+    * [Pingdom Monitor](packages/pingdom-monitor/)
