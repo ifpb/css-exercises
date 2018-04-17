@@ -8,4 +8,4 @@ A ideia desse desafio consiste em desevolver a página sobre do Mirror Fashion d
 *Figura 1 - Página sobre do Mirror Fashion*
 ![Página sobre do Mirror Fashion](assets/sobre.png)
 
-> *[Alternativa de resposta](code-response/)*
+> *[Alternativa de resposta](code-response/sobre.html)*
