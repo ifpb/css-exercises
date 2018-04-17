@@ -9,3 +9,10 @@
 * [Estilizando tabelas](table-css/)
 * [Curriculum Viate com layout básico](curriculum-style-layout/)
 * [Layout com Portifólio](portfolio-initial/)
+<!-- 
+Creating fancy letterheaded paper 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes/Creating_fancy_letterheaded_paper
+https://github.com/mdn/learning-area/tree/master/css/styling-boxes/letterheaded-paper-finished
+
+https://github.com/mdn/learning-area
+-->
