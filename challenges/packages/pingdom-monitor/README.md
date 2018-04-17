@@ -102,4 +102,4 @@ e as seguintes observações:
 * As bordas devem ser preservadas conforme a *Figura 6*.
 * Aplique o recúo interno de `.2rem .5rem` nas células da tabela
 
-> [Alternativa de resposta](code-response/)
+> **[Alternativa de resposta](code-response/)**
