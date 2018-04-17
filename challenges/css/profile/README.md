@@ -63,4 +63,4 @@ Para acelerar o desenvolvimento o Headhunter já disponibilizou boa parte do HTM
 
 ![Layout da página](assets/component4.png)
 
-> [Alternativa de resposta](code-response/).
+> *[Alternativa de resposta](code-response/).*
