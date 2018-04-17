@@ -1,8 +1,8 @@
 # Challenges
 
 * CSS
-  * [Profile](profile/)
-  * [Curriculum vitae](curriculum-vitae/)
+  * [Profile](css/profile/)
+  * [Curriculum vitae](css/curriculum-vitae/)
 * Packages
-  * [eZ Server Monitor](ez-server-monitor/)
-  * [Pingdom Monitor](pingdom-monitor/)
+  * [eZ Server Monitor](packages/ez-server-monitor/)
+  * [Pingdom Monitor](packages/pingdom-monitor/)
