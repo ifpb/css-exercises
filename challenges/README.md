@@ -2,6 +2,7 @@
 
 * CSS
   * [Profile](css/profile/)
+  * [Profile Responsivo](css/profile-responsive/)
   * [Curriculum vitae](css/curriculum-vitae/)
   * [Weather Responsivo](css/weather-responsive/)
 * Packages
