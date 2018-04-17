@@ -25,7 +25,7 @@ site
 
 **INSTRUÇÃO 1.** Ative o arquivo `master.css` como folha de estilo do `index.html`.
 
-**INSTRUÇÃO 2.** No arquivo `text.css`, tente aplicar o aplinhamento central, negrito e itálico respectivamente nas classes `text-center`, `bold` e `italic`.
+**INSTRUÇÃO 2.** No arquivo `text.css`, tente aplicar o alinhamento central, negrito e itálico respectivamente nas classes `text-center`, `bold` e `italic`.
 
 **INSTRUÇÃO 3.** No arquivo `master.css` importe os estilos definidos em `text.css`.
 
