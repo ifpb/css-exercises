@@ -1,9 +1,9 @@
 # Challenges
 
 * CSS
-  * Profile ([Simples](css/profile/), [Responsivo](css/profile-responsive/))
+  * Profile: [Simples](css/profile/), [Responsivo](css/profile-responsive/)
   * [Curriculum vitae](css/curriculum-vitae/)
-  * Portfólio ([Simples](css/portfolio-simple/), [Galeria)](css/portfolio-gallery/))
+  * Portfólio: [Simples](css/portfolio-simple/), [Galeria)](css/portfolio-gallery/)
   * [Weather App](css/weather-responsive/)
   * [Cinebangue](css/cinebangue-responsive/)
   * [Mirror fashion](css/mirrorfashion/)
