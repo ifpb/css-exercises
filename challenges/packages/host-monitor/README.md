@@ -3,7 +3,7 @@
 ## DESCRIÇÃO
 ---
 
-Considere que o IFPB está com uma demanda técnica relacionado ao monitoramento de de algumas máquinas, no qual foi exigido realizar exibir algumas métricas como status da CPU, memória, processos, disco, rede etc. Ao analisar o mercado foi possível encotrar muitos ferramentas que atendiam essa demanda. 
+Considere que o IFPB está com uma demanda técnica relacionado ao monitoramento de algumas máquinas, no qual foi exigido realizar exibir algumas métricas como status da CPU, memória, processos, disco, rede etc. Ao analisar o mercado foi possível encotrar muitos ferramentas que atendiam essa demanda. 
 
 Como as métricas já eram pré-definidas, logo uma opção considerada interessante foi a aplicação Web open source
 [Linux Dash](https://github.com/afaqurk/linux-dash), contudo foi solicitado que houvesse uma adaptação em sua interface para se assemelhar ao template [DashGum Free Dashboard](http://blacktie.co/2014/07/dashgum-free-dashboard/).
