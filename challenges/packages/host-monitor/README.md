@@ -3,7 +3,7 @@
 ## DESCRIÇÃO
 ---
 
-Considere que o IFPB está com uma demanda técnica relacionado ao monitoramento de de algumas máquinas, no qual foi exigido realizar exibir algumas métricas como status da CPU, memória, processos, disco, rede etc. Ao analisar o mercado foi possível encotrar muitos ferramentas que atendiam essa demanda. 
+Considere que o IFPB está com uma demanda técnica relacionado ao monitoramento de algumas máquinas, no qual foi exigido exibir algumas métricas como status da CPU, memória, processos, disco, rede etc. Ao analisar o mercado foi possível encontrar muitos ferramentas que atendiam essa demanda. 
 
 Como as métricas já eram pré-definidas, logo uma opção considerada interessante foi a aplicação Web open source
 [Linux Dash](https://github.com/afaqurk/linux-dash), contudo foi solicitado que houvesse uma adaptação em sua interface para se assemelhar ao template [DashGum Free Dashboard](http://blacktie.co/2014/07/dashgum-free-dashboard/).
@@ -26,7 +26,7 @@ Para facilitar esse processo, o desenvolvimento será distribuido em **component
 > Uptime	40' 32''<br>
 > Processor	Quad Core Xeon E5 2.8 Ghz<br>
 
-para que seja utilizado na criação da estrutura do HTML e estilização do CSS do painel. Também é imporante destacar que `material-icons` se refere aos ícones do [Material Icons](https://material.io/icons/).
+para que seja utilizado na criação da estrutura do HTML e estilização do CSS do painel. Também é importante destacar que `material-icons` se refere aos ícones do [Material Icons](https://material.io/icons/).
 
 ## COMPONENTES
 ---
@@ -48,9 +48,9 @@ para que seja utilizado na criação da estrutura do HTML e estilização do CSS
 mas considerando que:
 
 * O painel será construíndo usando um `card` do [Bootstrap](http://getbootstrap.com) que ocupará 1/3 do `main`;
-* O `card` deve centralizar o alinhamento do texto, sua altura mínima deve ser de `330px`, a sobra de borda de `0 2px 1px rgba(0, 0, 0, 0.2)`, e não deve possuir borda;
-* Quando o cursor estiver sobre o `card`, a sobra de borda deve ser `2px 3px 2px rgba(0, 0, 0, 0.3)`;
-* O cabeçalho do `card` deve possuir cor de plano de fundo com `#797979`, a cor de texto branca, o texto em negrito,  e o tamanho de fonte 30% maior que o elemento raiz;
+* O `card` deve centralizar o alinhamento do texto, sua altura mínima deve ser de `330px`, a sombra de borda de `0 2px 1px rgba(0, 0, 0, 0.2)`, e não deve possuir borda;
+* Quando o cursor estiver sobre o `card`, a sombra de borda deve ser `2px 3px 2px rgba(0, 0, 0, 0.3)`;
+* O cabeçalho do `card` deve possuir cor de plano de fundo com `#797979`, a cor de texto branca, o texto em negrito,  recuo interno de .7rem e o tamanho de fonte 30% maior que o elemento raiz;
 * O seu ícone deve possuir tamanho de `6rem` e margem inferior de `2rem`;
 * A tabela não deve possuir margem e suas células deve possuir um recuo interno de `.2rem`;
 * O painel deve apresentar a aparência conforme a *Figura 2*:
@@ -78,8 +78,9 @@ mas considerando que:
 * O seu ícone deve possuir tamanho de `6rem` e margem inferior de `2rem`;
 * O painel deve apresentar a aparência conforme a *Figura 3*:
 
-*Figura 3 - Painel sobre a Carga da Memória.*<br>
-![Aparência do artigo](assets/memory.png)
+*Figura 3 - Painel sobre a Carga da CPU.*<br>
+![Aparência do artigo](assets/cpu.png)
+
 
 **COMPONENTE 3 -** Crie o conteúdo do Painel de Carga da Memória, no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Painel de Carga da Memória`:
 
@@ -101,8 +102,8 @@ mas considerando que:
 * O tamanho total da memória deve possuir tamanho de `2rem` e margem inferio de `1rem`;
 * O painel deve apresentar a aparência conforme a *Figura 4*:
 
-*Figura 4 - Painel sobre a Carga da CPU.*<br>
-![Aparência do artigo](assets/cpu.png)
+*Figura 4 - Painel sobre a Carga da Memória.*<br>
+![Aparência do artigo](assets/memory.png)
 
 **COMPONENTE 4 -** Crie o conteúdo do Painel dos processos TOP 7, no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Painel dos processos TOP 7`:
 
