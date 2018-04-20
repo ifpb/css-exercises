@@ -9,7 +9,7 @@ Uma opção considerada interessante foi o [Pingdom](https://www.pingdom.com), q
 
 Então, diante dessa problemática, a DTI abriu um processo de seleção com os alunos do IFPB para recrutar alguém com domínio no tema, e que pudesse criar um pequeno sistema de monitoramento Web.
 
-A princípio foi disponibilizado um layout de como seria o sistema neste [arquivo](code.zip), em uma versão bem inicial já inicializada por um funcionário do setor, mas, a ideia é que no final a página fique semelhante ao da *Figura 1*. Portanto, cabe a você candidato continuar o desenvolvimento através das questões que serão levantadas a seguir.
+A princípio já foi disponibilizado por um funcionário do setor um layout inicial de como seria o sistema no arquivo [code.zip](code.zip), mas, a ideia é que no final a página fique semelhante ao da *Figura 1*. Portanto, cabe a você candidato continuar o desenvolvimento através das questões que serão levantadas a seguir.
 
 *Figura 1 - Layout da página*
 
@@ -22,7 +22,7 @@ Para facilitar esse processo, o desenvolvimento será distribuido em **component
 ### COMPONENTES
 ---
 
-**COMPONENTE 1 - (50%)** Crie o conteúdo do Painel de Hosts no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Hosts`:
+**COMPONENTE 1** Crie o conteúdo do Painel de Hosts no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Hosts`:
 
 ```html
 <!-- 
@@ -52,21 +52,21 @@ mas considerando que:
 
 ![Layout da página](assets/hosts.png)
 
-**COMPONENTE 2 - (50%)** Crie o conteúdo do Painel de tempo de resposta no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Response Time (ms)`, mas considerando os estilos do Componente 1 e a aparência da *Figura 3*:
+**COMPONENTE 2** Crie o conteúdo do Painel de tempo de resposta no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Response Time (ms)`, mas considerando os estilos do Componente 1 e a aparência da *Figura 3*:
 
 *Figura 3 - Painel do tempo de reposta*<br>
 
 ![Layout da página](assets/response-time.png)
 
 
-**COMPONENTE 3 - (50%)** Crie o conteúdo do Painel de tempo de disponibilidade no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Uptime (%)`, mas considerando os estilos do Componente 1 e a aparência da *Figura 4*:
+**COMPONENTE 3** Crie o conteúdo do Painel de tempo de disponibilidade no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Uptime (%)`, mas considerando os estilos do Componente 1 e a aparência da *Figura 4*:
 
 *Figura 4 - Painel do tempo de disponibilidade*<br>
 
 ![Layout da página](assets/uptime.png)
 
 
-**COMPONENTE 4 - (50%)** Crie o conteúdo do Painel de registros de monitoramento (Logs) no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Logs`, mas considerando a aparência da *Figura 5*:
+**COMPONENTE 4** Crie o conteúdo do Painel de registros de monitoramento (Logs) no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Logs`, mas considerando a aparência da *Figura 5*:
 
 *Figura 5 - Painel de Hosts*<br>
 
@@ -89,10 +89,9 @@ e as seguintes observações:
 * Na resposta `.response` deve-se configurar a cor `#9a9da0`, o tamanho de fonte de `12px` e zerar as margens.
 * Em cada log deve haver uma borda inferior de `1px solid #e9ecef`, com exceção do último log.
 
-**COMPONENTE 5 - (50%)** Crie o conteúdo do Painel da tabela dos registros de disponibilidade no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Uptime`, mas considerando a aparência da *Figura 6*:
+**COMPONENTE 5** Crie o conteúdo do Painel da tabela dos registros de disponibilidade no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Uptime`, mas considerando a aparência da *Figura 6*:
 
 *Figura 6 - Painel da tabela dos registros de disponibilidade*<br>
-
 ![Layout da página](assets/uptime-table.png)
 
 e as seguintes observações:

@@ -28,6 +28,8 @@ Para facilitar esse processo, o desenvolvimento será distribuido em **component
 
 para que seja utilizado na criação da estrutura do HTML e estilização do CSS do painel. Também é importante destacar que `material-icons` se refere aos ícones do [Material Icons](https://material.io/icons/).
 
+> **Observação:** A princípio deve ser entregue no mínimo dois paineis.
+
 ## COMPONENTES
 ---
 
