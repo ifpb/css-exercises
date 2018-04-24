@@ -1,4 +1,4 @@
-# Analisando a cascata
+# Analisando o efeito da cascata no CSS
 
 ## Objetivo
 

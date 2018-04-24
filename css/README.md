@@ -2,6 +2,7 @@
 
 * [Analisando uma página com Estilo](inspect-style/)
 * [Seletores no CSS](selector-css/)
+* [Analisando o efeito da cascata no CSS](cascade-css/)
 * [Criando seu primeiro estilo](hello-world-css/)
 * [Beginner HTML Site Styled \| MDN](https://github.com/mdn/beginner-html-site-styled)
 * [Curriculum Vitae com estilo](curriculum-style-text/)
