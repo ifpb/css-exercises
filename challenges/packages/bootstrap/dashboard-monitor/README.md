@@ -21,7 +21,7 @@ Detalhe, em [code.zip](code.zip) já existem algumas observações, mas que ser�
 
 **COMPONENTE 1 -** Este componente está relacionado a primeira linha de `cards` do layout proposto, ou seja, especificamente se trata da seção da *Figura 2*.
 
-*Figura 2 - Componente 1*
+*Figura 2 - Componente 1*<br>
 ![Layout](assets/component1.png)
 
 Então considere que:
@@ -67,7 +67,7 @@ Então considere que:
 
 **COMPONENTE 2** Este componente tem relação com a seção referente à *Figura 3*.
 
-*Figura 3 - Componente 2*
+*Figura 3 - Componente 2*<br>
 ![Layout](assets/component2.png)
 
 Então considere que:
@@ -104,7 +104,7 @@ fa fa-trash
 
 **COMPONENTE 3** Este componente tem relação com a seção referente à *Figura 4*.
 
-*Figura 4 - Componente 3*
+*Figura 4 - Componente 3*<br>
 ![Layout](assets/component3.png)
 
 Então considere que:
@@ -132,7 +132,7 @@ Então considere que:
 
 **COMPONENTE 4** Este componente tem relação com a seção referente à *Figura 5*.
 
-*Figura 5 - Componente 4*
+*Figura 5 - Componente 4*<br>
 ![Layout](assets/component4.png)
 
 Então considere que:
