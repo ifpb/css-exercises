@@ -19,7 +19,7 @@ Para facilitar esse processo, o desenvolvimento será distribuido em **component
 
 > **Observação:** A princípio deve ser entregue ao menos o Componente 4 ou 5.
 
-### COMPONENTES
+## COMPONENTES
 ---
 
 **COMPONENTE 1** Crie o conteúdo do Painel de Hosts no arquivo [`code/index.html`](code/index.html), especificamente em `TODO Hosts`:
