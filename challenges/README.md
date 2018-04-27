@@ -10,7 +10,7 @@
   * Template de Blog: [Denalli](css/blog-denalli/), [Escape](css/blog-escape/), [Evermore](css/blog-evermore/), [Lamar](css/blog-lamar/), [Moon](css/blog-moon/)
 * Packages
   * Boostrap
-    * [Host Monitor](packages/host-monitor/)
-    * [eZ Server Monitor](packages/ez-server-monitor/)
-    * [Pingdom Monitor](packages/pingdom-monitor/)
-    * [Dashboard Monitor](packages/dashboard-monitor/)
+    * [Host Monitor](packages/bootstrap/host-monitor/)
+    * [eZ Server Monitor](packages/bootstrap/ez-server-monitor/)
+    * [Pingdom Monitor](packages/bootstrap/pingdom-monitor/)
+    * [Dashboard Monitor](packages/bootstrap/dashboard-monitor/)
