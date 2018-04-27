@@ -13,3 +13,4 @@
     * [Host Monitor](packages/host-monitor/)
     * [eZ Server Monitor](packages/ez-server-monitor/)
     * [Pingdom Monitor](packages/pingdom-monitor/)
+    * [Dashboard Monitor](packages/dashboard-monitor/)
