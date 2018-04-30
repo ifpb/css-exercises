@@ -16,5 +16,5 @@
 | `<p>` | 6 parágrafo  | 6 | Normal Author | **a:0 b:0 c:1 d:0** | master.css:12 |
 | `<p>` | 7 parágrafo  | 5 | Normal Author | a:0 b:0 c:0 d:2 | **master.css:32** |
 | `<p>` | 8 parágrafo  | 6 | Normal Author | **a:0 b:0 c:1 d:0** | master.css:7 |
-| `<h3>` | 4 título  | 4 | Normal Author | a:0 b:0 c:0 d:1 | master.css:17 |
+| `<h3>` | 4 título  | 3 | Normal Author | a:0 b:0 c:0 d:1 | **master.css:17** |
 | `<p>` | 9 parágrafo  | 7 | Normal Author | **a:0 b:0 c:1 d:1** | master.css:52 |
