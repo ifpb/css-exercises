@@ -38,14 +38,14 @@ a:hover {
 }
 
 i.material-icons {
-  font-size: 1em;
+  font-size: 1rem;
 }
 p, i.material-icons {
-  line-height: 1.5em;
+  line-height: 1.5rem;
 }
 
 .btn {
-  font-size: 1.3em;
+  font-size: 1.3rem;
 }
 .btn:hover {
   text-decoration: none;
@@ -69,7 +69,7 @@ h1:hover a, h2:hover a {
 
 #social a {
   color: white;
-  font-size: 2em;
+  font-size: 2rem;
 }
 
 #social .fa-facebook-square {
