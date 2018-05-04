@@ -1,6 +1,7 @@
 # Estilizando tabelas
 
 ## Objetivo
+---
 
 O objetivo desta atividade consiste em abordar os seguintes temas:
 
@@ -19,14 +20,13 @@ O objetivo desta atividade consiste em abordar os seguintes temas:
     - `width`, `min-width`
 
 ## Descrição
+---
 
 A tabela é um elemento do HTML que permite exibir um conjunto de dados de modo bastante interessante, pois ao agrupar um conjunto de regristros em linhas facilita a comparação entre dados do registro por meio das colunas.
 
 Pensando em estimular a criação de um tabela HTML é que este exercício propoe a criação de duas tabelas. O esboço necessário para ambas tabelas pode ser acessado neste [arquivo](site.zip), no qual ainda falta definir estrutura e estilo, e as instruções de estilização encontram-se documentados em cada documento HTML.
 
 ### Tabela Climática
-
-* * *
 
 Gere uma `<table>` que contenha informações climáticas, de uma determinada cidade, para cada dia da semana. Os dados para preenchimento desta table estão na *Tabela 1* (esta ilustra a exibição esperada como resposta deste exercício).
 
@@ -58,8 +58,6 @@ A `<table>` deve seguir os seguintes padrões de estilos:
 | Sábado  | wi-day-cloudy    |
 
 ### Tabela de Notas
-
-* * *
 
 Gere uma table que contenha as notas de disciplinas de alguns ilustres alunos. Os dados para preenchimento desta `<table>` estão na *Tabela 2* (esta ilustra a exibição esperada como resposta deste exercício).
 
