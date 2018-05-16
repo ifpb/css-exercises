@@ -24,7 +24,7 @@ Para acelerar a submissão do currículo o Headhunter já disponibilizou boa par
 ## INFORMAÇÕES
 ---
 
-**INFORMAÇÃO 1 - (3,3)** Crie a região contento informações de contato no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 1`, conforme a *Figura 2*:
+**INFORMAÇÃO 1 -** Crie a região contento informações de contato no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 1`, conforme a *Figura 2*:
 
 *Figura 2 - Informações de Contato.* <br>
 ![Layout da página](assets/contact.png)
@@ -34,7 +34,7 @@ mas considerando que:
 * Os dados de contato que forem relacionados a link, como a URL do perfil do github, devem estar como um hyperlink.
 * Em [`code/css/contact.css`](code/css/contact.css) cada contato deve haver um distanciamento vertical entre si, e os ícones e os dados devem apresentar distribuição o mais próximo possível da *Figura 2*.
 
-**INFORMAÇÃO 2 - (3,3)** Crie a região contento informações sobre as skills no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 2`, conforme a *Figura 3*:
+**INFORMAÇÃO 2 -** Crie a região contento informações sobre as skills no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 2`, conforme a *Figura 3*:
 
 *Figura 3 - Informações sobre as Skills.* <br>
 ![Layout da página](assets/skills.png)
@@ -57,7 +57,7 @@ mas considerando que:
 * Em [`code/css/skill.css`](code/css/skill.css) as tags `.progress` devem possuir um background de `hsla(0, 0%, 100%, .19)`, e margem de `.5rem 0 10px`.
 * Cada `.skill` deve possuir uma margem esquerda de `20px`, um recuo interno superior de `4px`, e largura de `93%`.
 
-**INFORMAÇÃO 3 - (3,3)** Crie a região contento informações sobre as experiências profissionais no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 3`, conforme a *Figura 4*:
+**INFORMAÇÃO 3 -** Crie a região contento informações sobre as experiências profissionais no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 3`, conforme a *Figura 4*:
 
 *Figura 4 - Informações sobre as Experiências Profissionais.* <br>
 ![Layout da página](assets/experience.png)
@@ -69,7 +69,7 @@ mas considerando que:
 * O período da experiência deve conter a cor `rgba(0, 0, 0, .54)`, o tamanho de `14px` e o negrito de `300`.
 * A descrição da experiência deve conter o tamanho de `14px`, a cor `rgba(0, 0, 0, .87)`, e o distanciamento superior de 20px.
 
-**INFORMAÇÃO 4 - (3,3)** Crie a região contento informações sobre a formação profissional no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 4`, conforme a *Figura 5*:
+**INFORMAÇÃO 4 -** Crie a região contento informações sobre a formação profissional no arquivo [`code/index.html`](code/index.html), especificamente em `TODO INFORMAÇÃO 4`, conforme a *Figura 5*:
 
 *Figura 5 - Informações sobre a Formação Profissional.* <br>
 ![Layout da página](assets/education.png)
