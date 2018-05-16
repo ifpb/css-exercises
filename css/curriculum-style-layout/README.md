@@ -45,8 +45,8 @@ As instruções passadas para gerar o currículos, conforme a *Figura 1*, são:
 
 **INSTRUÇÃO 4.** A região de classe `cover` deve centralizar todo o seu conteúdo, já a imagem contida nela deve possuir aparência arredondada, com larguda de `150px`, borda solida e branca com `5px` de largura, e uma sombra de borda com o seguinte valor `0px 0px 2px 2px rgba(0, 0 , 0, .4)`;  
 
-**INSTRUÇÃO 5.** Na região de classe `profile-detail`, as tabelas devem ser centralizada, com uma largura de 90%, texto centralizado e margem inferior de `30px`;
+**INSTRUÇÃO 5.** Na região de classe `profile-detail`, as tabelas devem ser centralizada, com uma largura de 90% e margem inferior de `30px`;
 
-**INSTRUÇÃO 6.** Também na região de classe `profile-detail`, a célula de classe `title` deve possuir tamanhao de `1.1em` e largura de `90%`. Já a célula de classe `last-cell` deve possuir um recúo interno inferior de `5px` e bordar inferior de `1px solid #e6e9ec`.
+**INSTRUÇÃO 6.** Também na região de classe `profile-detail`, a célula de classe `title` deve possuir tamanho de `1.1em` e largura de `90%`. Já a célula de classe `last-cell` deve possuir um recúo interno inferior de `5px` e bordar inferior de `1px solid #e6e9ec`.
 
 > [Alternativa de resposta](site-response/index.html).
