@@ -158,4 +158,4 @@ Contudo, considere os seguintes itens:
 | twitter | `#00abf1` |
 | youtube | `#c4302a` |
 
-Para indicar que você leu o desafio até o final, levante-se rapidamente, em alguns segundos e fale "presunto", mas, se alguém perguntar o motivo de tal ação diga que no final da prova você explica. Então lembre, sem explicar para ninguém para não afetar a estatística.
+<!-- Para indicar que você leu o desafio até o final levante-se rapidamente, por alguns segundos, e fale "ifpb", mas, se alguém perguntar o motivo de tal ação diga que no final da prova você explica. Então lembre, sem explicar para ninguém para não afetar a estatística de quantos leram até o fim. -->
