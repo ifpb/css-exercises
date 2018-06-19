@@ -82,3 +82,5 @@ para que seja utilizado na criação da estrutura do HTML e estilização do CSS
 
   *Figura 6 - Botão de acesso superior da página.*<br>
   ![Aparência do artigo](assets/gototop.png)
+
+> [Alternativa de resposta](code-response/)
