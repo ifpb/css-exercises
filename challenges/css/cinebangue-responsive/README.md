@@ -13,16 +13,16 @@ Contudo, dado o destaque e quantidade de acesso por meio de dispositivos móveis
 *Figura 2 - Layout da página em 375px*<br>
 ![Layout da página](assets/cine-iphone6-375-joined.png)
 
-Então baseado nessa necessidade, um desenvolvedor chegou a codificar alguns recursos necessários no layout da página Web inspirados na *Figura 1* e *Figura 2*, e que seu resultado está disponível no arquivo [code.zip](code.zip). Portanto, cabe a você para continuar o desenvolvimento através das questões que serão levantadas a seguir, e cada questão tem explicito sua forma de pagamento.
+Então baseado nessa necessidade, um desenvolvedor chegou a codificar alguns recursos necessários no layout da página Web inspirados na *Figura 1* e *Figura 2*, e que seu resultado está disponível no arquivo [code.zip](code.zip). Portanto, cabe a você para continuar o desenvolvimento através dos componentes que serão levantadas a seguir, e cada componente tem explicito sua forma de pagamento.
 
 Resumidamente o layout é dividido em algumas áreas: a barra de navegação, o cabeçalho da página, a área principal de conteúdo e o rodapé da página. Cada uma dessas áreas apresenta itens com aparências específicas, que devem ser preservados o mais próximo possível do comportamento  estrutural e do estilo apresentado.
 
-Para facilitar esse processo de desenvolvimento, cada questão abordará um item específico, no qual seu conteúdo será previamente disponibilizado por meio dos arquivos obtidos com o desenvolvedor. Por exemplo, uma das questões solicitará a criação e estilização da barra de menu, e como ponto de partida, os arquivos baixados já oferecem algum conteúdo, para que assim seja utilizado por você na criação da barra.
+Para facilitar esse processo de desenvolvimento, cada componente abordará um item específico, no qual seu conteúdo será previamente disponibilizado por meio dos arquivos obtidos com o desenvolvedor. Por exemplo, uma dos componentes solicitará a criação e estilização da barra de menu, e como ponto de partida, os arquivos baixados já oferecem algum conteúdo, para que assim seja utilizado por você na criação da barra.
 
-## QUESTÕES
+## COMPONENTES
 ---
 
-**QUESTÃO 1 -** No Layout apresentado do Cine Bangue é possível identificar a barra de menu do site. Através dos arquivos obtidos, veja que o layout apresenta o HTML necessário, contudo falta o CSS da barra, então, crie a aparência da barra de menu conforme a *Figura 1* considerando que:
+**COMPONENTE 1 -** No Layout apresentado do Cine Bangue é possível identificar a barra de menu do site. Através dos arquivos obtidos, veja que o layout apresenta o HTML necessário, contudo falta o CSS da barra, então, crie a aparência da barra de menu conforme a *Figura 1* considerando que:
 
 **a.** O logotipo da página deve ser colocado na tag `<span class="logo"></span>` através de geração de conteúdo via CSS em `/* TODO logo */`, ou seja, não é para mudar o HTML;
 
@@ -33,7 +33,7 @@ Para facilitar esse processo de desenvolvimento, cada questão abordará um item
 *Figura 3 - Esquema da transição dos links no menu.*<br>
 ![transição dos links](assets/menu-transition.png)
 
-**QUESTÃO 2 -** Veja a *Figura 2* e aplique a responsividade na página de modo que:
+**COMPONENTE 2 -** Veja a *Figura 2* e aplique a responsividade na página de modo que:
 
 **a.** O menu na barra de navegação seja oculta quando a resolução for menor que 899px em `/* TODO menu-inline hidden viewport < 899px */`;
 
@@ -45,6 +45,6 @@ Para facilitar esse processo de desenvolvimento, cada questão abordará um item
 
 **e.** Em `/* TODO footer responsivo */` faça que o rodapé exiba as informações conforme a *Figura 1* nas resoluções superiores à 900px.
 
-**QUESTÃO 3 -** Veja a *Figura 1* e coloque a localização do cinema através do mapa do Google Maps, para isso adicione o HTML necessário em `<!-- TODO location -->` e o CSS necessário em `/* TODO location */`.
+**COMPONENTE 3 -** Veja a *Figura 1* e coloque a localização do cinema através do mapa do Google Maps, para isso adicione o HTML necessário em `<!-- TODO location -->` e o CSS necessário em `/* TODO location */`.
 
 > *[Alternativa de resposta](code-response/).*

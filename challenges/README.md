@@ -8,6 +8,7 @@
   * [Cinebangue](css/cinebangue-responsive/)
   * [Mirror fashion](css/mirrorfashion/)
   * Template de Blog: [Denalli](css/blog-denalli/), [Escape](css/blog-escape/), [Evermore](css/blog-evermore/), [Lamar](css/blog-lamar/), [Moon](css/blog-moon/)
+  * Cubonetwork: [Simples](css/cubonetwork-simple/), [Responsivo](css/cubonetwork-responsive/)
 * Packages
   * Boostrap
     * [Host Monitor](packages/bootstrap/host-monitor/)
