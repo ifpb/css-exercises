@@ -71,4 +71,4 @@ Os breakpoints necessários para cada componente serão descritos e ilustrados a
 *(d) 1200px*<br>
 ![](assets/social-1200.png)<br>
 
-> [Alternativa de resposta](code-response/)
+> [Alternativa de resposta](site-response/)
