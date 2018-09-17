@@ -17,7 +17,7 @@ O objetivo desta atividade consiste em abordar os seguintes tópicos:
 
 * * *
 
-O Steve Wozniak gostaria de criar seu Curriculum Vitae com aparência *flat design*, a princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo [site](site.zip). Nele encontram-se sua foto e algumas descrições, que juntos deverão ser apresentados em um navegador Web, conforme ilustra a *Figura 1*.
+O Steve Wozniak gostaria de criar seu Curriculum Vitae com aparência *flat design*, a princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo [site.zip](site.zip). Nele encontram-se sua foto e algumas descrições, que juntos deverão ser apresentados em um navegador Web, conforme ilustra a *Figura 1*.
 
 *Figura 1* - Layout do Currículum com Estilo
 ![Layout Curriculum](assets/layout.png)
