@@ -3,7 +3,7 @@
 ## DESCRIÇÃO
 ---
 
-O projeto *open source* [Akkadius/glass-isc-dhcp](https://github.com/Akkadius/glass-isc-dhcp) é uma interface projeta para administrar o serviço ISC DHCP, veja a *Figura 1*.
+O projeto *open source* [Akkadius/glass-isc-dhcp](https://github.com/Akkadius/glass-isc-dhcp) é uma interface projetada para administrar o serviço ISC DHCP, veja a *Figura 1*.
 
 *Figura 1 - Interface do Glass ISC DHCP*
 ![Layout](https://dodgydudes.se/content/images/2018/09/Screenshot_2018-09-07_16-44-34.png)
@@ -84,7 +84,7 @@ Então considere que:
 -->
 ```
 
-* Que a estrutura de cada `card` seja definida por:
+* A estrutura de cada `card` seja definida por:
 
 ```html
 <div class="card d-flex flex-row">
