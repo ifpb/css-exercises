@@ -15,3 +15,4 @@
     * [eZ Server Monitor](packages/bootstrap/ez-server-monitor/)
     * [Pingdom Monitor](packages/bootstrap/pingdom-monitor/)
     * [Dashboard Monitor](packages/bootstrap/dashboard-monitor/)
+    * [Glass ISC DHCP](packages/bootstrap/glass-isc-dhcp/)
