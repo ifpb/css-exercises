@@ -157,3 +157,7 @@ Então considere que:
 * Ao construir a tabela deve-se aplicar os estilos necessários para alcançar o resultado proposto (Boostrap > Content > Tables).
 
 * A barra de progresso, `.progress`, deve possuir uma altura de `.6rem`, e para alinhar verticalmente a célula que o contém aplique a classe `align-middle`.
+
+<br>
+<br>
+> **[Alternativa de resposta](code-response/)**
