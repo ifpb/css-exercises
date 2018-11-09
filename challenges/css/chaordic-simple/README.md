@@ -86,3 +86,9 @@ Cliques em links
   - O número com a cor `#aa1423`, plano de fundo branco, tamanho de texto de `1.5rem` e raio da borda com `3px`;
   - A cor do texto inferior deve ser `#777`;
   - Tente preservar o alinhamento dos conteúdos internos.
+
+<br>
+<br>
+<br>
+
+> [Alternativa de resposta](code-response/)
