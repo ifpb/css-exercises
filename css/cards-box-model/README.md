@@ -12,7 +12,7 @@ O objetivo desta atividade consiste em abordar os seguintes tópicos:
 ---
 O Layout [Tabler](https://tabler.github.io/) possui no seu início um conjunto de `cards` conforme ilustra a *Figura 1*:
   
-*Figura 1 - *<br>
+*Figura 1 - Layout em Box Model*<br>
 ![Stats](assets/layout.png)
 
 Tente usar os conceitos de Box Model para criar os seis `card`, contudo, considere que:

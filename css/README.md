@@ -11,6 +11,7 @@
 * [Estilizando tabelas](table-css/)
 * [Curriculum Viate com layout básico](curriculum-style-layout/)
 * [Layout com Portifólio](portfolio-initial/)
+* Cards [em Box Model](cards-box-model/), [em Flexbox](cards-flex/), [em Grid](cards-grid/), [Responsivo](cards-responsive/)
 
 <!-- 
 Creating fancy letterheaded paper 
