@@ -1,8 +1,7 @@
 # Curriculum Vitae Estilizado
 
 ## Objetivo
-
-* * *
+---
 
 O objetivo desta atividade consiste em abordar os seguintes tópicos:
 
@@ -14,8 +13,7 @@ O objetivo desta atividade consiste em abordar os seguintes tópicos:
 - Usar as propriedades: `color`, `font-family`, `font-size`, `text-align`, `width`, `padding`, `margin`, `padding`, `box-shadow`, `border-box`, `background-color`, `border-radius`, `table`
   
 ## Descrição
-
-* * *
+---
 
 O Steve Wozniak gostaria de criar seu Curriculum Vitae com aparência *flat design*, a princípio ele forneceu, textualmente, algumas informações que estão disponíveis no arquivo [site.zip](site.zip). Nele encontram-se sua foto e algumas descrições, que juntos deverão ser apresentados em um navegador Web, conforme ilustra a *Figura 1*.
 
