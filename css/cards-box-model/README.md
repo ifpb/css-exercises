@@ -56,3 +56,10 @@ Tente usar os conceitos de Box Model para criar os seis `card`, contudo, conside
   ```
 
   * A fonte utilizada é a [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro).
+
+
+<br>
+<br>
+<br>
+
+> [Alternativa de resposta](site-response/)

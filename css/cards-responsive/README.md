@@ -16,4 +16,10 @@ O Layout [Tabler](https://tabler.github.io/) possui no seu início um conjunto d
 ![Stats](assets/layout.png)
 
 Tente usar os conceitos de Flexbox e Grid Layout para criar os seis `card` com responsividade usando como partida este [site.zip](site.zip). Fique livre para determinar a quantidade de breakpoints.
+
+<br>
+<br>
+<br>
+
+> [Alternativa de resposta](site-response/)
   

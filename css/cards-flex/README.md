@@ -56,3 +56,9 @@ Tente usar os conceitos de Flexbox para criar os seis `card`, contudo, considere
   ```
 
   * A fonte utilizada é a [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro).
+
+<br>
+<br>
+<br>
+
+> [Alternativa de resposta](site-response/)
