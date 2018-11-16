@@ -39,11 +39,15 @@ a:hover {
 
 /* banner */
 .banner {
-  padding: 15rem;
+  padding: 15rem 0;
   color: #fff;
   text-align: center;
   background-image: url(../img/background-home.jpg);
   background-size: cover;
+}
+
+.banner .wrapper {
+  margin: 0 auto;
 }
 
 .banner p {
