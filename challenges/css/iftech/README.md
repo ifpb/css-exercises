@@ -46,3 +46,8 @@ Os breakpoints necessários para cada componente serão descritos e ilustrados a
 ![](assets/parceiros-550.png)<br>
 *(c) 1100px*<br>
 ![](assets/parceiros-1400.png)<br>
+
+<br>
+<br>
+
+> [Alternativa de resposta](site-response/)
