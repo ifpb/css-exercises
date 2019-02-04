@@ -10,7 +10,7 @@
   * Template de Blog: [Denalli](css/blog-denalli/), [Escape](css/blog-escape/), [Evermore](css/blog-evermore/), [Lamar](css/blog-lamar/), [Moon](css/blog-moon/)
   * Cubonetwork: [Simples](css/cubonetwork-simple/), [Responsivo](css/cubonetwork-responsive/)
   * Chaordic: [Simples](css/chaordic-simple/)
-  * IFTech: [responsivo](css/iftech) e [animação](css/iftech-animation)
+  * iftech: [responsivo](css/iftech) e [animação](css/iftech-animation)
 * Packages
   * Boostrap
     * [Host Monitor](packages/bootstrap/host-monitor/)

@@ -37,7 +37,7 @@ Lembrando que as mudanças de propriedades necessárias para este efeito devem o
 | 80 | total |
 | 100 | nula |
 
-- Na descrição do banner (Com tempo de `2s`):
+- Na descrição do banner (Com tempo de animação de `2s`):
 
 | Tempo (%) | Posição | Transparência |
 |-|-|-|
@@ -46,7 +46,7 @@ Lembrando que as mudanças de propriedades necessárias para este efeito devem o
 | 80 | - | nula |
 | 100 | posição original | - |
 
-- Na imagem do banner (Com tempo de `2.5s`):
+- Na imagem do banner (Com tempo de animação de `2.5s`):
 
 | Tempo (%) | Posição | Transparência |
 |-|-|-|
