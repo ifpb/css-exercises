@@ -72,4 +72,4 @@ Então construa o formulário preservando a aparência proposta.
 <br>
 <br>
 
-<!-- > [Alternativa de resposta](site-response/) -->
+> [Alternativa de resposta](site-response/)
