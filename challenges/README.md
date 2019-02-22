@@ -11,6 +11,7 @@
   * Cubonetwork: [Simples](css/cubonetwork-simple/), [Responsivo](css/cubonetwork-responsive/)
   * Chaordic: [Simples](css/chaordic-simple/)
   * iftech: [responsivo](css/iftech) e [animação](css/iftech-animation)
+  * [Pokedex](css/pokedex)
 * Packages
   * Boostrap
     * [Host Monitor](packages/bootstrap/host-monitor/)
