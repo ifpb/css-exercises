@@ -45,7 +45,7 @@ Os elementos do campo de filtro de tipo são: `All`, `bug`, `dragon`, `electric`
 
 *Figura 4 - Animação inicial da página (No Google Chrome você deve acionar o play).*<br>
 
-<video autoplay loop controls>
+<video autoplay loop controls style="width: 100%">
   <source src="assets/component-3.mp4" type="video/mp4">
 </video>
 
@@ -55,11 +55,17 @@ Os elementos do campo de filtro de tipo são: `All`, `bug`, `dragon`, `electric`
 *(a) Animação disparada com o :hover em `.pokemeon`*<br>
 
 <video autoplay loop controls>
-  <source src="assets/component-4.2.mp4" type="video/mp4">
+  <source src="assets/component-4.1.mp4" type="video/mp4">
 </video>
 
 *(b) Animação disparada com o :focus em `.pokemeon`*<br>
 
 <video autoplay loop controls>
-  <source src="assets/component-4.1.mp4" type="video/mp4">
+  <source src="assets/component-4.2.mp4" type="video/mp4">
 </video>
+
+<br>
+<br>
+<br>
+
+> [Alternativa de resposta](code-response/)
